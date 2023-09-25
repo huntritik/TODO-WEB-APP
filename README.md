@@ -2,9 +2,12 @@
 
 #NOTE
 
+# hosted my app using netlify   LINK =https://todoappmernstack.netlify.app/login
+
 #Backend
 
-the backend file is too big so i had uploaded the file on my google drive and provided the link for it. LINK = 
+the backend file is too big so i had uploaded the file on my google drive and provided the link for it.
+LINK = https://drive.google.com/drive/folders/1QgTLKWShPbKo-7fOql105k2BOiUoblna?usp=sharing
 
 #Link for backend folder
 
@@ -24,7 +27,7 @@ use abc as a paaswrd to login
 set the mongo , express to fetch the request
 intall REACT , VITE
 in last start the vite and react app.
-# hosted my app using netlify   LINK =https://todoappmernstack.netlify.app/login
+
 
 #ABOUT APP
 in this app first user will login and enter the app then he call scheduke his doings and can see the progress as pending ,  completed or ongoing. he can change ,delete and change things according .
