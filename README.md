@@ -16,18 +16,22 @@ I HAVE CREATED THE TODO WEB APP IN WHICH I USED MONGO AND EXPRESS.
 BACKEND =MONGO AND EXPRESS
 
 #Frontend
+
 the client folder consist the frontend part
 react ,vite is used
 
 #LOGIN Autorization
+
 use abc as a paaswrd to login
 
 
 #Procedure
+
 set the mongo , express to fetch the request
 intall REACT , VITE
 in last start the vite and react app.
 
 
 #ABOUT APP
+
 in this app first user will login and enter the app then he call scheduke his doings and can see the progress as pending ,  completed or ongoing. he can change ,delete and change things according .
